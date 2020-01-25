@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84784135-8b50-4919-afb4-b7cc56250e06" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VZDizgvr8HtPCgMVtG38i12XH1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo/build.gradle" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.CollectionsSingletonExample1">
+    <configuration name="CollectionsSingletonExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.collection.CollectionsSingletonExample1" />
+      <module name="Sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompletableFutureExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.collection.CompletableFutureExample" />
+      <module name="Sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.collection.EnumMapDemo" />
+      <module name="Sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedHashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.collection.LinkedHashMapDemo" />
+      <module name="Sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VolatileMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.multithreading.volatilesample.VolatileMain" />
+      <module name="Sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.multithreading.volatilesample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CollectionsSingletonExample1" />
+        <item itemvalue="Application.CompletableFutureExample" />
+        <item itemvalue="Application.LinkedHashMapDemo" />
+        <item itemvalue="Application.EnumMapDemo" />
+        <item itemvalue="Application.VolatileMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84784135-8b50-4919-afb4-b7cc56250e06" name="Default Changelist" comment="" />
+      <created>1577451855475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577451855475</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578065664921">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1578065664921" />
+    <state x="524" y="116" width="554" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1579570936707">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="524" y="116" width="554" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1579570936707" />
+    <state x="499" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577676399715">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1577676399715" />
+    <state width="1253" height="149" key="GridCell.Tab.0.bottom" timestamp="1579573865407">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="149" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579573865407" />
+    <state width="1253" height="149" key="GridCell.Tab.0.center" timestamp="1579573865406">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="149" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579573865406" />
+    <state width="1253" height="149" key="GridCell.Tab.0.left" timestamp="1579573865406">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="149" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579573865406" />
+    <state width="1253" height="149" key="GridCell.Tab.0.right" timestamp="1579573865407">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="149" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579573865407" />
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1579229170748">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1579229170748" />
+    <state x="445" y="131" width="540" height="524" key="StructurePopup" timestamp="1577673747010">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="445" y="131" width="540" height="524" key="StructurePopup/67.27.1299.741@67.27.1299.741" timestamp="1577673747010" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1579488334968">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1579488334968" />
+    <state x="0" y="27" width="710" height="741" key="find.popup" timestamp="1578107180097">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="0" y="27" width="710" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1578107180097" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1579138080743">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1579138080743" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1579229058806">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1579229058806" />
+  </component>
+</project>
